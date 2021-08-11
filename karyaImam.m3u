@@ -1,0 +1,90 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TV One"  group-title="Indonesia TV",TV One
+http://rr2.dens.tv/s/s105/index.m3u8
+
+#EXTINF:-2 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Trans7"  group-title="Indonesia TV",Trans7
+http://210.210.155.35/qwr9ew/s/s101/01.m3u8
+
+#EXTINF:-3 tvg-id="New EPG" tvg-logo="New Logo" tvg-name=".NET TV"  group-title="Indonesia TV",.NET TV
+#http://210.210.155.35/qwr9ew/s/s08/02.m3u8
+http://210.210.155.35/qwr9ew/s/s08/01.m3u8
+
+#EXTINF:-4 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="CNN Indo"  group-title="Indonesia TV",CNN Indo
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w978902341_b384000_sleng.m3u8
+
+#EXTINF:-13 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Global TV"  group-title="Indonesia TV",Global TV
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
+
+#EXTINF:-14 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="SCTV"  group-title="Indonesia TV",SCTV
+http://210.210.155.35/qwr9ew/s/s03/02.m3u8
+
+#EXTINF:-15 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TransTV"  group-title="Indonesia TV",TransTV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+
+#EXTINF:-16 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Kompas TV"  group-title="Indonesia TV",Kompas TV
+http://playlist.urfan.web.id/qwr9ew/s/s104/01.m3u8
+
+#EXTINF:-17 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Metro TV"  group-title="Indonesia TV",Metro TV
+http://45.126.83.51/uq2663/h/h05/index.m3u8
+
+#EXTINF:-18 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Berita Satu TV"  group-title="Indonesia TV",Berita Satu TV
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+
+#EXTINF:-26 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Indosiar"  group-title="Indonesia TV",Indosiar
+http://45.126.83.51/qwr9ew/s/s04/01.m3u8
+
+#EXTINF:-5 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="NatGeoWild asia"  group-title="Internasional",NatGeoWild asia
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+
+#EXTINF:-6 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="History Channel"  group-title="Internasional",History Channel
+https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+
+#EXTINF:-7 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="NASA TV"  group-title="Internasional",NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
+#EXTINF:-8 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Thrill"  group-title="Internasional",Thrill
+http://45.126.83.51/qwr9ew/s/s34/02.m3u8
+
+#EXTINF:-9 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="HGTV"  group-title="Internasional",HGTV
+http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+
+#EXTINF:-10 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Redbull TV"  group-title="Internasional",Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-11 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Movie"  group-title="Internasional",Movie
+https://stream.y5.hu/stream/stream_filmp/hls1/stream.m3u8
+
+#EXTINF:-12 tvg-id="New EPG" tvg-logo="New Logo" tvg-name="&Flix HD"  group-title="Internasional",&Flix HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v3a1/index.m3u8
+
+#EXTINF:-19 tvg-name="tvN" group-title="Internasional",tvN
+http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
+#http://50.7.161.82:8278/TVN/playlist.m3u8?tid=m02000000000012778588&ct=17982&tsum=8d4948e951d52e62699d90039b91c278
+
+#EXTINF:-20 tvg-name="Nickelodeon" group-title="Internasional",Nickelodeon
+http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8
+
+#EXTINF:-21 tvg-name="K+ TV" group-title="Internasional",K+ TV
+http://45.126.83.51:80/session/b4b90d8c-1971-11e9-93aa-84c89f2f5f8f/uq2663/h/h08/01.m3u8
+
+#EXTINF:-22 tvg-name="K-Pop TV" group-title="Internasional",K-Pop TV
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+
+#EXTINF:-23 tvg-name="Discovery Channel Asia" group-title="Internasional",Discovery Channel Asia
+https://mediasv.online/tvchannel_x1/discovery-asia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDIxIDk6MTc6NTggQU0maGFzaF92YWx1ZT1oTi9RblAyNi90Q0Qwb2pzMEE3T2F3PT0mdmFsaWRtaW51dGVzPTg2NDAwJnN0cm1fbGVuPTI3JmlkPWNoXzE2OTU2
+
+#EXTINF:-24 tvg-name="NHK World Japan" group-title="Internasional",NHK World Japan
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+
+#EXTINF:-25 tvg-name="Arirang TV" group-title="Internasional",Arirang TV
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+
+#EXTINF:-27 tvg-name="Blue Ant Extreme" group-title="Internasional",Blue Ant Extreme
+http://45.126.83.51/dr9445/h/h15/01.m3u8
+
+#EXTINF:-28 tvg-name="usee prima" group-title="Internasional",usee prima
+https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048811~exp=9007200826789802~acl=/8eb1108c494240ef94c5c8ae7e572c29/*/profile_1/chunklist.m3u8*~hmac=c7b056ffebcb94ad6c429bd0685d5d6fed40b7bad0dcfca6e48df944d45a43d4
+
+#EXTINF:-29 tvg-name="History 2" group-title="Internasional",History 2
+https://liveanevia.mncnow.id/live/eds/History/sa_hls/History-avc1_1000000=9mp4a_98800_eng=3.m3u8
